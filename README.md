@@ -3,29 +3,31 @@
 
 Mis habilidades:
 
-Front-end: HTML, CSS, JavaScript.
-Back-end: Node.js, Express.js
-Bases de datos: SQL, NoSQL (MongoDB)
-Control de versiones: Git, GitHub
-Herramientas de desarrollo: GitHub Copilot, VsCode.
+- Front-end: HTML, CSS, JavaScript.
+- Back-end: Node.js, Express.js
+- Bases de datos: SQL, NoSQL (MongoDB)
+- Control de versiones: Git, GitHub
+- Herramientas de desarrollo: GitHub Copilot, VsCode.
 
 Mis intereses:
 
-Desarrollo de aplicaciones web de alto rendimiento
-Implementación de arquitecturas escalables y seguras
-Experimentación con nuevas tecnologías y frameworks
-Colaboración en proyectos open-source
-Contribución a la comunidad de desarrolladores
+- Desarrollo de aplicaciones web de alto rendimiento.
+- Implementación de arquitecturas escalables y seguras
+- Experimentación con nuevas tecnologías y frameworks
+- Colaboración en proyectos open-source
+- Contribución a la comunidad de desarrolladores
 
 Educación:
 
-Técnico en Analisis de Sistemas
-Analista QA Manual
-Desarrollador Web Fullstack (Actualmente)
+- Técnico en Analisis de Sistemas
+- Analista QA Manual
+- Desarrollador Web Fullstack (Actualmente)
 
-Correo electrónico: [mauromiramar@gmail.com]
-Perfil de GitHub: [https://github.com/MCicchelliMauro]
-LinkedIn: [https://www.linkedin.com/in/mauro-qa-webdeveloper/]
+Contacto:
+
+- Correo electrónico: [mauromiramar@gmail.com]
+- Perfil de GitHub: [https://github.com/MCicchelliMauro]
+- LinkedIn: [https://www.linkedin.com/in/mauro-qa-webdeveloper/]
 
 <!---
 MCicchelliMauro/MCicchelliMauro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
