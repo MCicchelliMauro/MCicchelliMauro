@@ -1,5 +1,5 @@
- 👋 Hola. Soy Mauro Cicchelli. Soy un desarrollador fullstack en progreso con pasión por crear aplicaciones web robustas y escalables.
-  Me encuentro en un proceso continuo de aprendizaje y perfeccionamiento, buscando constantemente nuevas tecnologías y herramientas para mejorar mis habilidades.
+ 👋 Hola. Soy Mauro. Soy Desarrollador Web Fullstack en proceso. Me entusiasma mucho la idea de faclitar el acceso a aplicaciones web a las personas y dar soluciones proyectos IT.
+ 
 
 Mis habilidades:
 
@@ -21,7 +21,7 @@ Educación:
 
 - Técnico en Analisis de Sistemas
 - Analista QA Manual
-- Desarrollador Web Fullstack (Actualmente)
+- Desarrollador Web Fullstack
 
 Contacto:
 
