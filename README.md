@@ -1,4 +1,4 @@
- 👋 Hola. Soy Mauro. Soy Desarrollador Web Fullstack en proceso. Me entusiasma mucho la idea de faclitar el acceso a aplicaciones web a las personas y dar soluciones proyectos IT.
+ 👋 Hola. Soy Mauro. Estoy estudiando para ser Desarrollador Web Fullstack. Me entusiasma mucho la idea de faclitar el acceso a aplicaciones web a las personas y dar soluciones proyectos IT.
  
 
 Mis habilidades:
