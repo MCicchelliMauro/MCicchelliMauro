@@ -26,7 +26,6 @@ Educación:
 Contacto:
 
 - Correo electrónico: [mauromiramar@gmail.com]
-- Perfil de GitHub: [https://github.com/MCicchelliMauro]
 - LinkedIn: [https://www.linkedin.com/in/mauro-qa-webdeveloper/]
 
 <!---
