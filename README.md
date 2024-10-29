@@ -5,9 +5,7 @@ Mis habilidades:
 
 - Front-end: HTML, CSS, JavaScript.
 - Back-end: Node.js, Express.js
-- Bases de datos: SQL, NoSQL (MongoDB)
 - Control de versiones: Git, GitHub
-- Herramientas de desarrollo: GitHub Copilot, VsCode.
 
 Mis intereses:
 
